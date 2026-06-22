@@ -1,4 +1,4 @@
-# UAE Gov Navigator 🇦🇪
+# UAE Gov Navigator
 
 An **agentic AI assistant** for navigating UAE government procedures. Describe a life event — relocating for a job, having a baby, registering a car, paying a fine — and **Dalil**, the AI agent, identifies every required government step, orders them by dependency, researches current requirements via live web search, and builds a personalised step-by-step roadmap.
 
