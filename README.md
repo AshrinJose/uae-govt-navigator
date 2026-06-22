@@ -4,7 +4,7 @@ An **agentic AI assistant** for navigating UAE government procedures. Describe a
 
 Built for the **GeeksforGeeks × Google "Build with AI"** workshop (UAE).
 
-🔗 **Live demo (deployed on Vercel):** `https://your-project.vercel.app`
+🔗 **Live demo (deployed on Vercel):** `https://uae-govt-navigator-unvm.vercel.app`
 
 ---
 
