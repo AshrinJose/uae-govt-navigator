@@ -20,7 +20,7 @@ Dalil is an **orchestrated chain of agents**, each passing structured state (JSO
 
 1. **Journey Mapper** — identifies the required procedures and sequences them by real UAE dependency (e.g. work permit → entry permit → medical → Emirates ID → residence visa).
 2. **Requirements Researcher** — uses Gemini's **`google_search` tool** to fetch current documents, fees, and processing times (live tool use).
-3. **Plan Builder** — combines everything into an ordered roadmap, including which **typing/service centre** (Tasheel, Amer, TAMM) each step can be done at, alongside the self-service portal.
+3. **Plan Builder** — combines everything into an ordered roadmap, including where each step can be done at, alongside the self-service portal.
 
 The live **agent trace** shows each step planning, working, and completing in real time.
 
