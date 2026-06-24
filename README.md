@@ -1,4 +1,4 @@
-# UAE Gov Navigator 🇦🇪
+# UAE Gov Navigator
 
 An **AI-powered research and document assistant** for navigating UAE government procedures. Describe a life event — or upload an offer letter, contract, or government letter — and **Dalil**, the AI agent, identifies every required government step, orders them by dependency, researches current requirements via live web search, and builds a personalised step-by-step roadmap. A built-in chatbot lets you ask follow-up questions about your plan — documents, fees, timelines, and more.
 
